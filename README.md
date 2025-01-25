@@ -10,7 +10,7 @@ https://it.aliexpress.com/item/1005005862794169.html?spm=a2g0o.order_list.order_
 ⦁	1 SMD 0603 1K 
 https://it.aliexpress.com/item/1005001793547200.html?spm=a2g0o.cart.0.0.15b318fcPwmw22&mp=1&gatewayAdapt=glo2ita
 
-⦁	1 SMD LED DIOD 5V 0603
+⦁	1 SMD LED DIOD 3V 3528 1210
 https://it.aliexpress.com/item/1005003446992182.html?spm=a2g0o.cart.0.0.15b318fcPwmw22&mp=1&gatewayAdapt=glo2ita
 
 ⦁	1 STRIPLINE 6X2 (JST 2.54) MALE FOR MOTHERBOARD (LINK IS THE SAME AS FEMALE)
